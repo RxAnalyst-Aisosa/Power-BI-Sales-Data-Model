@@ -85,7 +85,7 @@ This was introduced to begin moving beyond model structure into reusable analyti
 
 | File | Purpose |
 |---|---|
-| **[First-Data-Model.pbix](First-Data-Model.pbix)** | Original Power BI project |
+| **[First Data Model.pbix](First%20Data%20Model.pbix)** | Original Power BI project |
 | **[power-bi-data-model.png](assets/power-bi-data-model.png)** | Original Power BI Model view screenshot |
 | **[MODEL-DOCUMENTATION.md](docs/MODEL-DOCUMENTATION.md)** | Model structure and table descriptions |
 
